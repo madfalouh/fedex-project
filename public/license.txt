@@ -1,0 +1,11 @@
+Model Information:
+* title:	DC-10-30 FedEx
+* source:	https://sketchfab.com/3d-models/dc-10-30-fedex-b71df28e7cf1464dadd04b6f0e076c77
+* author:	mudkipz321 (https://sketchfab.com/mudkipz321)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DC-10-30 FedEx" (https://sketchfab.com/3d-models/dc-10-30-fedex-b71df28e7cf1464dadd04b6f0e076c77) by mudkipz321 (https://sketchfab.com/mudkipz321) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
