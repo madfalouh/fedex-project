@@ -1,0 +1,126 @@
+#root {
+  display: flex;
+  align-items: center;
+justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+.login-container {
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 15px;
+margin-left: auto;
+margin-right: auto;
+width: 93%;
+background-image: url('./assets/login-back.png');
+height: 95%;
+
+ background-size: cover;  
+    background-position: center;  
+    background-repeat: no-repeat;  
+
+}
+.login-body-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 50%;
+  border-radius: 20px;
+
+}
+
+.login-second-section h1 {
+color: aliceblue;
+font-size: 2rem;
+font-weight: 500;
+}
+
+.login-second-section {
+height: 80%;
+
+}
+
+.input-container {
+display: flex;
+align-items: start;
+justify-content: start;
+flex-direction: column ;
+color: white;
+margin-top: 8%;
+}
+
+.input-container input {
+width: 100%;
+height: 40px;
+border-radius:5px ;
+outline: none;
+border: none;
+font-size: 1rem;
+padding-left: 15px;
+}
+
+.input-second{
+color: aliceblue;
+ background-color: #5637c1;
+}
+
+.login-second-section img {
+width: 250px;
+}
+
+.login-second-section  {
+width: 35%;
+}
+
+input::placeholder {
+  color: rgb(0, 0, 0);
+ 
+}
+
+.input-second::placeholder{
+  color: rgb(255, 255, 255);
+}
+
+.input-container-checkbox {
+display: flex;
+gap: 10px;
+margin-top: 8%;
+}
+
+.input-container-checkbox  label { 
+color: rgb(255, 255, 255);
+}
+
+.input-container-checkbox  input {
+outline: none;
+border: none;
+width: 15px;
+}
+
+.button-container  button {
+color: white;
+background-color: #5C2D8F; 
+margin-top: 8%;
+outline: none;
+border: none;
+width: 150px;
+
+}
+
+@media only screen and (max-width: 800px) {
+ .login-second-section  {
+width:65%;
+}
+
+.login-body-container {
+ 
+  height: 55%;
+ 
+
+}
+
+
+}
